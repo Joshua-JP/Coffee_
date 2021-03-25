@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+.header
+{
+    
+    height: 100vh;
+
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #f0efee;
+    text-transform: uppercase;
+    
+}
+.logo
+{
+    height: 50px;
+    padding: 2px 10px;
+   
+}
+
+.icon-bar
+{
+
+    background:rgb(0, 0, 0);
+}
+li a
+{
+    color:black;
+    
+}
+
+.P-Title
+{
+    text-align: center;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.H-Title
+{
+    text-align: center;
+}
+
+
+.Product
+{
+   margin: 10px 40px; 
+}
+
+.Product img
+{
+    width: 240px;
+    padding: 5px;
+    
+}
+
+.product img:hover{
+    transform: scale(1.1);
+}
+
+
+
+.big
+{
+
+    font-size: 52px;
+    Margin: 20px 0;
+    text-align: center;
+    color: darkorange;
+}
+
+.cc
+{
+    font-family: 'Balsamiq Sans', cursive;
+    width: 80%;
+    margin: 50px auto;
+    
+    
+}
+
+.c-box
+{
+   display: flex; 
+}
+
+.c-box-left
+{
+flex-basis: 60%;
+padding: 40px 60px;
+
+}
+
+.c-box-right
+{
+flex-basis: 60%;
+padding: 40px;
+background:rgba(20, 20, 20, 0.301);
+color:black;
+}
+
+.c1
+{
+    margin-bottom: 40px;
+    text-align:center;
+}
+
+.input-row
+{
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 20px;
+}
+
+.input-group
+{
+    flex-basis: 45%;
+}
+
+input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    padding-bottom: 5px;
+}
+
+textarea
+{
+    width: 100%;
+    border: 1px solid black;
+    outline: none;
+    padding: 10px;
+    box-sizing: border-box;
+}
+button
+{
+width: 80px;
+}
+
+tr td
+{
+    padding-right: 20px;
+    padding-top: 30px;
+}
+
+.A-Title
+{
+    text-align: center;
+    text-transform: none;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.bigA
+{
+    font-size: 30px;
+    text-transform:none;
+    Margin: 20px 0;
+    text-align: center;
+    color: darkorange;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.col-lg
+{ 
+    font-size: 30px;
+    text-transform: none;
+    Margin: 10px 0;
+    text-align: center;
+    color: darkorange;
+    font-family: 'Balsamiq Sans', cursive;  
+}
+
+.textG
+{
+    font-size: 20px;
+    Margin: 20px 0;
+    text-align: center;
+    color:darkorange;
+}
+
+
+
+.how-Title
+{
+    font-family: 'Balsamiq Sans', cursive;
+    text-align: center;
+   
+}
+
+
+.find
+{
+    font-family: 'Balsamiq Sans', cursive;
+    text-align: center;
+    color: darkorange;
+}
+
+.grab
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 32%;
+}
+
+.text
+{
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.gmaps
+{
+   
+    height: 700px;
+    
+}
+
+h2
+{
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.h-img
+{
+    width: 1175px;
+    height: 800px;
+}
